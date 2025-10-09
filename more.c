@@ -3,6 +3,8 @@
 
 // This will be our 'mario-more' file. Back-to-back pyramids.
 
+// Next I think we will expand this and make a diamond.
+
 void print_bricks(int bricks);
 void print_bricks2(int bricks);
 void print_spaces(int spaces);
